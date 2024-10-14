@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|c:\\users\\joy\\source\\repos\\inmemorycrudapp\\inmemorycrudapp\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|solutionrelative:inmemorycrudapp\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|c:\\users\\joy\\source\\repos\\inmemorycrudapp\\inmemorycrudapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|solutionrelative:inmemorycrudapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|c:\\users\\joy\\source\\repos\\inmemorycrudapp\\inmemorycrudapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|solutionrelative:inmemorycrudapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|c:\\users\\joy\\source\\repos\\inmemorycrudapp\\inmemorycrudapp\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|solutionrelative:inmemorycrudapp\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|c:\\users\\joy\\source\\repos\\inmemorycrudapp\\inmemorycrudapp\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|solutionrelative:inmemorycrudapp\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|c:\\users\\joy\\source\\repos\\inmemorycrudapp\\inmemorycrudapp\\models\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|solutionrelative:inmemorycrudapp\\models\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|c:\\users\\joy\\source\\repos\\inmemorycrudapp\\inmemorycrudapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFFB736-E73D-4473-BE3A-0A455B2C8B5B}|InMemoryCrudApp\\InMemoryCrudApp.csproj|solutionrelative:inmemorycrudapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "InMemoryCrudApp\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "InMemoryCrudApp\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:50:36.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InMemoryCrudApp\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "InMemoryCrudApp\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:23:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InMemoryCrudApp\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "InMemoryCrudApp\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:23:44.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "InMemoryCrudApp\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "InMemoryCrudApp\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:23:13.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "InMemoryCrudApp\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "InMemoryCrudApp\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T11:22:55.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Models\\BookRepository.cs",
+              "RelativeDocumentMoniker": "InMemoryCrudApp\\Models\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Models\\BookRepository.cs",
+              "RelativeToolTip": "InMemoryCrudApp\\Models\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:26:45.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "InMemoryCrudApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\InMemoryCrudApp\\InMemoryCrudApp\\Models\\Book.cs",
+              "RelativeToolTip": "InMemoryCrudApp\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:25:07.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
